@@ -19,3 +19,11 @@ let numberString = myNumber.toString()
 let message3 = "My number is " + numberString;
 
 console.log(message3);
+
+const allColors = ["red", "green", "yellow", "blue", "grey", "cyan"]
+
+let favColor = allColors[4]
+
+let message4 = `My favorite color is ${favColor}.`
+
+console.log(message4);
