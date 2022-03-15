@@ -1,11 +1,5 @@
-var firstName;
+let text = "this is text inside of a string";
 
-firstName = "Bryson";
+let textLength = text.length
 
-var lastName = "Jones";
-
-console.log(firstName);
-
-let age = 26;
-
-const PI = 3.14
+console.log(textLength)
