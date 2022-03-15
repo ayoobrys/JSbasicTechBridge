@@ -1,5 +1,4 @@
-let text = "this is text inside of a string";
+let firstName = "Bryson";
 
-let textLength = text.length
-
-console.log(textLength)
+let message = "Hello my name is: " + firstName;
+console.log(message);
