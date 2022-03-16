@@ -27,3 +27,21 @@ let favColor = allColors[4]
 let message4 = `My favorite color is ${favColor}.`
 
 console.log(message4);
+
+let date = "Wednesday";
+
+if (date == "Monday") {
+    console.log("Today is Monday");
+}
+else if (date == "Tuesday") {
+    console.log("Today is Tuesday");
+}
+else if (date == "Wednesday") {
+    console.log("Today is Wednesday");
+}
+else if (date == "Thursday") {
+    console.log("Today is Thursday");
+}
+else if (date == "Friday") {
+    console.log("Today is Friday");
+}
