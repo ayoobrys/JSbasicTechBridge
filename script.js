@@ -45,3 +45,10 @@ else if (date == "Thursday") {
 else if (date == "Friday") {
     console.log("Today is Friday");
 }
+
+let i = 0;
+
+while (i < 10) {
+    console.log(i);
+    i++;
+}
